@@ -2,6 +2,7 @@
 	$page = 'home';
 	include_once('includes/header.inc.php'); 
 ?>
+<div> premier ajoout </div>
 <div class="main_home">
 	<?php
 		/*

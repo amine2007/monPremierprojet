@@ -2,7 +2,11 @@
 	$page = 'home';
 	include_once('includes/header.inc.php'); 
 ?>
-<div> premier ajoout </div>
+<div> premier ajoout 
+	<p> premier ajoout </p>
+	
+	dfgdfgdfgdflhiosdfjd oihdofaso oidofis
+</div>
 <div class="main_home">
 	<?php
 		/*
